@@ -1,0 +1,577 @@
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe.config
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.exe
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.pdb
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.pdb
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameService.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameService.pdb
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\JoinWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\MainWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\GameWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\JoinWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\MainWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\App.g.cs
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.cache
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.lref
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\GameWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.g.resources
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.Properties.Resources.resources
+C:\Users\Mahmoud Hamed\Desktop\New folder (2)\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csproj.GenerateResource.Cache
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe.config
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.pdb
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameService.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameService.pdb
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\JoinWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MainWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\GameWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\JoinWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MainWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\App.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.cache
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.lref
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\GameWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.g.resources
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.Properties.Resources.resources
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csproj.GenerateResource.Cache
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.exe
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.pdb
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe.config
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.pdb
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameService.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameService.pdb
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\JoinWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\MainWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\GameWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\JoinWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\MainWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\App.g.cs
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.cache
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.lref
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\GameWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.g.resources
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.Properties.Resources.resources
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csproj.GenerateResource.Cache
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.exe
+C:\Users\Mahmoud Hamed\Desktop\Shared\OS2_Project\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.pdb
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe.config
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.exe
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.pdb
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.pdb
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameService.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameService.pdb
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.baml
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\JoinWindow.baml
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MainWindow.baml
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.g.cs
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\GameWindow.g.cs
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\JoinWindow.g.cs
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MainWindow.g.cs
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\App.g.cs
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.cache
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.lref
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\GameWindow.baml
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.g.resources
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.Properties.Resources.resources
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csproj.GenerateResource.Cache
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\loginWindow.baml
+C:\Users\عبدالرحمن محمود\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\loginWindow.g.cs
+C:\Users\Abdelrahman Mahmoud\Desktop\MemoryGameService\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe.config
+C:\Users\Abdelrahman Mahmoud\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.exe
+C:\Users\Abdelrahman Mahmoud\Desktop\MemoryGameService\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.pdb
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe.config
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.exe
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.pdb
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.pdb
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\MemoryGameService.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\MemoryGameService.pdb
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\JoinWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\LoginWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MainWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\GameWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\JoinWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\LoginWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MainWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\App.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.cache
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.lref
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\GameWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.g.resources
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.Properties.Resources.resources
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csproj.GenerateResource.Cache
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe.config
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.pdb
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\MemoryGameService.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\MemoryGameService.pdb
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\ChatReadyWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\JoinWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\LoginWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MainWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\ChatReadyWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\GameWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\JoinWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\LoginWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MainWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\App.g.cs
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.cache
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.lref
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\GameWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.g.resources
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.Properties.Resources.resources
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csproj.GenerateResource.Cache
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.exe
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_V1\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.pdb
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe.config
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.pdb
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\MemoryGameService.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\MemoryGameService.pdb
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\ChatReadyWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\JoinWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\LoginWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MainWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\ChatReadyWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\GameWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\JoinWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\LoginWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MainWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\App.g.cs
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.cache
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.lref
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\GameWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.g.resources
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.Properties.Resources.resources
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csproj.GenerateResource.Cache
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.exe
+C:\Users\Mahmoud Hamed\Desktop\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.pdb
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe.config
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.exe
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.pdb
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.pdb
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\MemoryGameService.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Effects.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\System.Windows.Interactivity.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\MemoryGameService.pdb
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csprojResolveAssemblyReference.cache
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\ChatReadyWindow.baml
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.baml
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\JoinWindow.baml
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\LoginWindow.baml
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MainWindow.baml
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\ChatReadyWindow.g.cs
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.g.cs
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\GameWindow.g.cs
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\JoinWindow.g.cs
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\LoginWindow.g.cs
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MainWindow.g.cs
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\App.g.cs
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.cache
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.lref
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\GameWindow.baml
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.g.resources
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.Properties.Resources.resources
+E:\FCIH\Level-3_2nd-term\SWE-2\Project\SWE2\MemoryGameService_UTN\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csproj.GenerateResource.Cache
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe.config
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.pdb
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\MemoryGameService.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\Open.Nat.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\MemoryGameService.pdb
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\Open.Nat.xml
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\bin\Debug\Interop.NATUPNPLib.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csproj.ResolveComReference.cache
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\ChatReadyWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\JoinWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\LoginWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\MainWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\ChatReadyWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\GameWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\JoinWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\LoginWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\MainWindow.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\App.g.cs
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.cache
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.lref
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\GameWindow.baml
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.g.resources
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.Properties.Resources.resources
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csproj.GenerateResource.Cache
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.exe
+C:\Users\Mahmoud Hamed\Desktop\MemoryGameService_UTN_FINAL\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.pdb
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe.config
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.exe
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\MemoryGameServiceClient.pdb
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\MemoryGameService.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Effects.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\Open.Nat.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\System.Windows.Interactivity.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\MemoryGameService.pdb
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\Open.Nat.xml
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\de\System.Windows.Interactivity.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\en\System.Windows.Interactivity.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\es\System.Windows.Interactivity.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\it\System.Windows.Interactivity.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\MemoryGameService29\MemoryGameServiceClient\bin\Debug\Interop.NATUPNPLib.dll
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csprojResolveAssemblyReference.cache
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\Interop.NATUPNPLib.dll
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csproj.ResolveComReference.cache
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\ChatReadyWindow.baml
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.baml
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\JoinWindow.baml
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\LoginWindow.baml
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\MainWindow.baml
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\ChatReadyWindow.g.cs
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\CreateJoinWindow.g.cs
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\GameWindow.g.cs
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\JoinWindow.g.cs
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\LoginWindow.g.cs
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\MainWindow.g.cs
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\App.g.cs
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.cache
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient_MarkupCompile.lref
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\GameWindow.baml
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.g.resources
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.Properties.Resources.resources
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.csproj.GenerateResource.Cache
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.exe
+F:\MemoryGameService29\MemoryGameServiceClient\obj\Debug\MemoryGameServiceClient.pdb

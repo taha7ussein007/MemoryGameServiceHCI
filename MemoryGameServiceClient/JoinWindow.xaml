@@ -1,0 +1,42 @@
+﻿<Window x:Class="MemoryGameServiceClient.JoinWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Join" Height="489.301" Width="779.188" ResizeMode="NoResize">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="Black" Offset="1"/>
+            <GradientStop Color="White" Offset="0.068"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid Margin="42,0,0,0">
+        <Label Content="Enter Room ID" HorizontalAlignment="Left" Margin="503,336,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="28" Width="206" Foreground="#FFEC5E5E" Height="54">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+        </Label>
+        <TextBox x:Name="RoomId_txt" Height="42" Margin="503,390,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="206" FontSize="24" HorizontalAlignment="Left">
+            <TextBox.Effect>
+                <DropShadowEffect/>
+            </TextBox.Effect>
+        </TextBox>
+        <Button x:Name="Connect_btn" Content="Connect" HorizontalAlignment="Left" Margin="-26,350,0,0" VerticalAlignment="Top" Width="511" Height="86" FontSize="48" FontWeight="Bold" Click="Connect_btn_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <ListView x:Name="listRooms" HorizontalAlignment="Left" Margin="-26,10,0,130" Width="747" SelectionMode="Single" SelectionChanged="listRooms_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" DisplayMemberBinding="{Binding ID}" Width="128"/>
+                    <GridViewColumn Header="Room Name" DisplayMemberBinding="{Binding RoomName}" Width="150"/>
+                    <GridViewColumn Header="Host UserName" DisplayMemberBinding="{Binding HostUserName}" Width="180"/>
+                    <GridViewColumn Header="Number Of Players" DisplayMemberBinding="{Binding NumberOfPlayer}" Width="115"/>
+                    <GridViewColumn Header="State" DisplayMemberBinding="{Binding State}" Width="80"/>
+                    <GridViewColumn Header="Level" DisplayMemberBinding="{Binding Level}" Width="40"/>
+                    <GridViewColumn Header="Limit" DisplayMemberBinding="{Binding maxPlayers}" Width="50"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>

@@ -1,0 +1,30 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="MemoryGameServiceClient.MainWindow"
+        Title="StartWindow" Height="489.301" Width="679.34" Background="{DynamicResource {x:Static SystemColors.WindowFrameBrushKey}}" ResizeMode="NoResize">
+    <Grid>
+        <Image x:Name="logo" HorizontalAlignment="Left" Width="671" Source="ChumsTeam.jpg" Stretch="Fill" Margin="0,0,0,196.301"/>
+        <Label Content="Enter Your Name" HorizontalAlignment="Left" Margin="10,208,0,0" VerticalAlignment="Top" Width="180" FontWeight="Bold" FontFamily="Sitka Small" Height="26" FontSize="18">
+            <Label.Effect>
+                <DropShadowEffect ShadowDepth="8"/>
+            </Label.Effect>
+        </Label>
+        <TextBox x:Name="UserName_txt" HorizontalAlignment="Left" Height="26" Margin="195,208,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="466" FontSize="16">
+            <TextBox.Effect>
+                <DropShadowEffect ShadowDepth="8"/>
+            </TextBox.Effect>
+        </TextBox>
+        <Button x:Name="StartSingleGame_btn" Content="Start Single Game" HorizontalAlignment="Left" Margin="10,262,0,0" VerticalAlignment="Top" Width="324" Height="186" FontWeight="Bold" FontSize="24" Click="StartSingleGame_btn_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="StartMultGame_btn" Content="Start Multi Game" HorizontalAlignment="Left" Margin="355,262,0,0" VerticalAlignment="Top" Width="306" Height="186" FontWeight="Bold" FontSize="22" Click="StartMultGame_btn_Click">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+
+    </Grid>
+</Window>
